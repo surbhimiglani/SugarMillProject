@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SugarMillProject</string>
+    <string name="FCM_PREF">com.example.surbhimiglani.sugarmillproject.fcm_pref</string>
+    <string name="FCM_TOKEN">com.example.surbhimiglani.sugarmillproject.fcm_token</string>
+</resources>

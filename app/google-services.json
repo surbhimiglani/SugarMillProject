@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "361845154422",
+    "firebase_url": "https://webproject-9770c.firebaseio.com",
+    "project_id": "webproject-9770c",
+    "storage_bucket": "webproject-9770c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361845154422:android:fed32fdaad4fd179",
+        "android_client_info": {
+          "package_name": "com.example.surbhimiglani.sugarmillproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361845154422-8r771fcjhpnadrfj8aq0ag1irmt1fd9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdl1sO8X-w5n6afjcqdS0QsZ08EneAVjM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
